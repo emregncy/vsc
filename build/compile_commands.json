@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/emreg/vsc/emreg/emreg/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/Chess.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\Chess.dir\\src\\main.cpp.obj -c C:\\Users\\emreg\\vsc\\emreg\\emreg\\src\\main.cpp",
+  "file": "C:/Users/emreg/vsc/emreg/emreg/src/main.cpp",
+  "output": "CMakeFiles/Chess.dir/src/main.cpp.obj"
+}
+]

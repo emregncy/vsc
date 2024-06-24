@@ -1,0 +1,7 @@
+C:/Users/emreg/vsc/emreg/emreg/build/CMakeFiles/Chess.dir
+C:/Users/emreg/vsc/emreg/emreg/build/CMakeFiles/edit_cache.dir
+C:/Users/emreg/vsc/emreg/emreg/build/CMakeFiles/rebuild_cache.dir
+C:/Users/emreg/vsc/emreg/emreg/build/CMakeFiles/list_install_components.dir
+C:/Users/emreg/vsc/emreg/emreg/build/CMakeFiles/install.dir
+C:/Users/emreg/vsc/emreg/emreg/build/CMakeFiles/install/local.dir
+C:/Users/emreg/vsc/emreg/emreg/build/CMakeFiles/install/strip.dir
